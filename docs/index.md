@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Spieleprogrammierung mit der Godot Engine
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+    Hier findet ihr bald alles zum Workshop.
+	
+	Grüße
+	- Philipp
+	
+## Links
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [CLT2021](https://chemnitzer.linux-tage.de/2021/de)
+- [Godot](https://godotengine.org/)
