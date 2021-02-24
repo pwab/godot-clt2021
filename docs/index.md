@@ -1,9 +1,13 @@
 # Hello World! 🙃
 
-    Hier findet ihr bald alles zum Workshop.
+!!! warning "Workshop ausgebucht"
+	Aktuell gibt es keine freien Plätze mehr. Wir überlegen, ob wir noch einen zweiten Termin durchführen können. Schaut am besten bei [Twitter](https://chemnitzer.linux-tage.de/twitter) vorbei oder abonniert den [Newsletter](https://chemnitzer.linux-tage.de/2021/de/presse/newsletter), dann bleibt ihr auf dem Laufenden.
+
+!!! info "Work in Progress"
+	Hier findet ihr bald alles zum Workshop.
 	
-	Grüße
-	- Philipp
+	*Grüße<br>
+	\- Philipp*
 
 ## Intro
 
