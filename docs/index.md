@@ -1,13 +1,18 @@
 # Hello World! 🙃
 
-!!! warning "Workshop ausgebucht"
-	Aktuell gibt es keine freien Plätze mehr. Wir überlegen, ob wir noch einen zweiten Termin durchführen können. Schaut am besten bei [Twitter](https://chemnitzer.linux-tage.de/twitter) vorbei oder abonniert den [Newsletter](https://chemnitzer.linux-tage.de/2021/de/presse/newsletter), dann bleibt ihr auf dem Laufenden.
+!!! info "Zweiter Workshoptermin"
+	Am Sonntag von 08:00 - 11:00 Uhr wird es aufgrund der Nachfrage einen zweiten Workshop geben. Meldet euch schnell an, denn die Plätze sind auch hier begrenzt: [Zur Anmeldung](https://chemnitzer.linux-tage.de/2021/de/programm/beitrag/134)
+	
 
-!!! info "Work in Progress"
-	Hier findet ihr bald alles zum Workshop.
+!!! info "Informationskanäle"
+	Alle aktuellen Informationen findet ihr hier. Wichtige Neuigkeiten werden auch im [Newsletter](https://chemnitzer.linux-tage.de/2021/de/presse/newsletter) oder bei [Twitter](https://chemnitzer.linux-tage.de/twitter) geteilt.
+
+	Weiterhin können wir uns gern während der Linux-Tage im Matrix-Chat unterhalten. Hierfür benötigt ihr einen Matrixaccount: [Zum Godot@CLT Raum](https://matrix.to/#/#godot-clt2021:tu-chemnitz.de)
 	
 	*Grüße<br>
 	\- Philipp*
+	
+	![pwab bei CLT-Adventure](assets/pwab_cltadventure.png)
 
 ## Intro
 
@@ -39,18 +44,16 @@ Ihr braucht für den Workshop:
 - [x] ein Headset mit Kopfhörern und am besten mit Mikrofon
 - [x] einen 'aufgeräumten' Desktop, der nur Dinge zeigt, die öffentlich sichtbar sein dürfen, da wir eventuell den Bildschirm teilen, um einander zu helfen
 - [ ] [die Godot Engine auf eurem PC](installation.md)
-	
+
 ## Weiterführende Links
 
 - [Webseite der Chemnitzer Linux-Tage 2021](https://chemnitzer.linux-tage.de/2021/de)
 - [Offizielle Webseite der Godot Engine (Englisch)](https://godotengine.org/)
-- [Offizielle Dokumentation der Godot Engine (Deutsch)](https://docs.godotengine.org/de/stable/)
-- [Hilfekanäle für Fragen (Englisch)](https://godotengine.org/community)
-- [Deutsche Godot Community](https://godot-community.de/)
 
 ## Lizenz
 
-Der gesamte Workshop steht unter der [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) Lizenz. Alle Codeteile stehen unter der [MIT](https://opensource.org/licenses/MIT) Lizenz.
+Der gesamte Workshop steht unter der [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/de/) Lizenz.
 
-    TODO:
-	- Lizenzen der Bilder und Icons
+Die Screenshots wurden teilweise aus der offiziellen Dokumententation übernommen. Sie stehen - genauso wie das Godot Engine Logo - ebenfalls unter der [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/) Lizenz und wurden erstellt von _Juan Linietsky, Ariel Manzur and the Godot community_.
+
+Alle Codeteile stehen unter der [MIT](https://opensource.org/licenses/MIT) Lizenz.
