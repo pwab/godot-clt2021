@@ -22,7 +22,7 @@ Godot ist eine freie Spiel-Engine mit der sich auf einfache Weise Ideen für Spi
 
 ## Inhalt
 
-[-> Hier geht's zur Inhaltsübersicht.](contents.md)
+[-> Hier geht es zur Inhaltsübersicht.](contents.md)
 
 ## Voraussetzungen
 
@@ -34,7 +34,7 @@ Die Software ist für alle gängigen Betriebssysteme verfügbar und dank einer G
 
 Zur Kommunikation wird es während des Workshops einen Textchat geben. Wer ein Mikrofon hat, kann auch dieses für das Stellen von Fragen nutzen. Eine Kamera wird nicht benötigt.
 
-Sollte etwas schief laufen: Keine Panik! Ich werde noch Texte/Videos erstellen, damit du die Sachen aus dem Workshop nochmal anschauen oder nachlesen kannst.
+Sollte etwas schieflaufen: Keine Panik! Ich werde noch Texte/Videos erstellen, damit du die Sachen aus dem Workshop nochmal anschauen oder nachlesen kannst.
 
 ## Vorbereitung
 
@@ -56,4 +56,4 @@ Der gesamte Workshop steht unter der [CC-BY-3.0](https://creativecommons.org/lic
 
 Die Screenshots wurden teilweise aus der offiziellen Dokumententation übernommen. Sie stehen - genauso wie das Godot Engine Logo - ebenfalls unter der [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/) Lizenz und wurden erstellt von _Juan Linietsky, Ariel Manzur and the Godot community_.
 
-Alle Codeteile stehen unter der [MIT](https://opensource.org/licenses/MIT) Lizenz.
+Alle Codeteile sind - falls nicht anders angegeben - [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) lizenziert und damit gemeinfrei.

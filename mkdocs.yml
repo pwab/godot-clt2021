@@ -34,12 +34,7 @@ nav:
     - Godot in der Übersicht: basics/godot.md
   - Dodge the Creeps!:
     - Spielidee: dodge-the-creeps/index.md
-    - Projektorganisation: dodge-the-creeps/project.md
-    - Spieler: dodge-the-creeps/player.md
-    - Feinde: dodge-the-creeps/enemies.md
-    - Szene: dodge-the-creeps/scene.md
-    - HUD: dodge-the-creeps/hud.md
-    - Erweiterungen: dodge-the-creeps/addons.md
+    - Let's Play: dodge-the-creeps/play.md
   - Themengebiete:
     - Übersicht: topics/index.md
     - Export: topics/export.md
