@@ -1,6 +1,15 @@
 # Hello World
 
+## Assets
+
+Am besten lädst du dir jetzt [dieses Asset-Pack](../assets/assets.zip) herunter und entpackst es in einen beliebigen Ordner. Assets sind Materialien, welche in einem Spiel eingesetzt werden. Dazu zählen Bilder, Soundeffekte oder auch Schriftarten. Dieses Asset-Pack enthält mehrere Dateien, welche wir im Workshop verwenden werden und welche du anschließend für eigene Spiele benutzen kannst. Alle Materialien stehen unter der offenen CC0-Lizenz (nennt man auch Public Domain) und dürfen deshalb frei und kostenlos für alle Projekte verwendet werden.
+
+## Dein erstes Projekt
+
 Jetzt wird es Zeit für das erste eigene Projekt und die erste Zeile Code! Schließe dazu die `2D Platformer` Demo oben links im Hauptmenü mit einem Klick auf `Projekt` und dann `Zur Projektverwaltung zurückkehren`. Godot wird dich fragen, ob du das aktuelle Projekt wirklich schließen möchtest. Das kannst du mit Ja bestätigen - eventuell geänderte Szenen kannst du dabei gern speichern.
+
+!!! warning "Baustelle"
+    Sorry, ab hier fehlt noch einiges. Ich arbeite daran ⛏
 
 In der Projektverwaltung
 

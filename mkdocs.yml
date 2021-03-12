@@ -47,6 +47,8 @@ nav:
     - Input: topics/input.md 
     - Speichern/Laden: topics/io.md
     - GUI: topics/gui.md
+    - KI: topics/ai.md
+    - Multiplayer: topics/networking.md
     - VR: topics/vr.md
   - Clones:
     - Klone bekannter Spiele: clones/index.md
@@ -58,6 +60,7 @@ nav:
     - Among Us: clones/among-us/index.md
     - Minecraft: clones/minecraft/index.md
   - Hilfe: help.md
+  - Glossar: glossary.md
 
 
 

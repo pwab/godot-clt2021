@@ -1,9 +1,5 @@
 # Hello World! 🙃
 
-!!! info "Zweiter Workshoptermin"
-	Am Sonntag von 08:00 - 11:00 Uhr wird es aufgrund der Nachfrage einen zweiten Workshop geben. Meldet euch schnell an, denn die Plätze sind auch hier begrenzt: [Zur Anmeldung](https://chemnitzer.linux-tage.de/2021/de/programm/beitrag/134)
-	
-
 !!! info "Informationskanäle"
 	Alle aktuellen Informationen findet ihr hier. Wichtige Neuigkeiten werden auch im [Newsletter](https://chemnitzer.linux-tage.de/2021/de/presse/newsletter) oder bei [Twitter](https://chemnitzer.linux-tage.de/twitter) geteilt.
 
@@ -56,4 +52,4 @@ Der gesamte Workshop steht unter der [CC-BY-3.0](https://creativecommons.org/lic
 
 Die Screenshots wurden teilweise aus der offiziellen Dokumententation übernommen. Sie stehen - genauso wie das Godot Engine Logo - ebenfalls unter der [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/) Lizenz und wurden erstellt von _Juan Linietsky, Ariel Manzur and the Godot community_.
 
-Alle Codeteile sind - falls nicht anders angegeben - [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) lizenziert und damit gemeinfrei.
+Alle Codeteile sind - falls nicht anders angegeben - [MIT](https://pwab.mit-license.org/) lizenziert und frei nutzbar.

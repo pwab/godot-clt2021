@@ -14,12 +14,7 @@
     - [Godot in der Übersicht](basics/godot.md)
 - Dodge the Creeps!
     - [Spielidee](dodge-the-creeps/index.md)
-    - [Projektorganisation](dodge-the-creeps/project.md)
-    - [Spieler](dodge-the-creeps/player.md)
-    - [Feinde](dodge-the-creeps/enemies.md)
-    - [Szene](dodge-the-creeps/scene.md)
-    - [HUD](dodge-the-creeps/hud.md)
-    - [Erweiterungen](dodge-the-creeps/addons.md)
+    - [Let's Play](dodge-the-creeps/play.md)
 - Themengebiete
     - [Übersicht](topics/index.md)
     - [Export](topics/export.md)
@@ -32,6 +27,8 @@
     - [Input](topics/input.md )
     - [Speichern/Laden](topics/io.md)
     - [GUI](topics/gui.md)
+    - [KI](topics/ai.md)
+    - [Multiplayer](topics/networking.md)
     - [VR](topics/vr.md)
 - Clones
     - [Klone bekannter Spiele](clones/index.md)
@@ -42,3 +39,5 @@
     - [Super Mario](clones/super-mario/index.md)
     - [Among Us](clones/among-us/index.md)
     - [Minecraft](clones/minecraft/index.md)
+- [Hilfe](help.md)
+- [Glossar](glossary.md)

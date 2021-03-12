@@ -1,6 +1,6 @@
 # Installation
 
-Die Godot Engine kannst du auf allen gängigen Betriebssystemen (Linux, Windows, macOS) verwenden. Eine Installation oder Administratorrechte sind in der Regel nicht nötig.
+Die Godot Engine kannst du auf allen gängigen Betriebssystemen (Linux, Windows, macOS) verwenden. Eine Installation oder Administratorrechte sind in der Regel nicht nötig. Für den Workshop nutzen wir die aktuelle Stable Version - das ist zum Zeitpunkt der CLT die Version 3.2.3.
 
 ## Herunterladen
 
@@ -8,7 +8,7 @@ Die [Downloadseite](https://godotengine.org/download) wählt automatisch für da
 
 ![Betriebssysteme auf der Downloadseite](assets/download_os.png)
 
-Eine Übersicht für verfügbare Linuxpakete findet sich bei [pkgs.org](https://pkgs.org/search/?q=godot).
+Eine Installation über einen Linux-Packagemanager, Snap oder Flatpack sollte auch kein Problem sein. Schau dir aber bitte die angebotene Version an. Eine Übersicht für verfügbare Linuxpakete findet sich bei [pkgs.org](https://pkgs.org/search/?q=godot).
 
 ## Version
 

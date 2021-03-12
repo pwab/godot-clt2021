@@ -1,5 +1,8 @@
 # Ein Spiel entwickeln
 
+!!! warning "Baustelle"
+    Sorry, ab hier fehlt noch einiges. Ich arbeite daran ⛏
+
 ## Ideen
 
 - Ideen haben

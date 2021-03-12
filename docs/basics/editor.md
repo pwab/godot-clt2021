@@ -1,5 +1,8 @@
 # Der Editor
 
+!!! warning "Baustelle"
+    Sorry, ab hier fehlt noch einiges. Ich arbeite daran ⛏
+
 Nun wollen wir den Editor kennenlernen. Dazu schauen wir uns einfach die Programmoberfläche etwas genauer an.
 
 ## Aufbau des Editors
