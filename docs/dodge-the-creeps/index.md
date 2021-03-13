@@ -1,5 +1,7 @@
 # Dodge the Creeps - Spielidee
 
+_Dodge the Creeps_ ist das offizielle Einsteigerprojekt für Godot. Damit kannst du den Editor kennenlernen und dich Stück für Stück mit den einzelnen Elementen eines Spiels vertraut machen. Die Anleitung gibt es komplett auf Deutsch und Englisch und du kannst dir das fertige Spiel auch als fertige Demo aus der Asset Library runterladen.
+
 Jedes Spiel braucht eine Idee und die von _Dodge the Creeps_ ist schnell erzählt:
 Du steuerst einen Charakter mit den Pfeiltasten und musst den Gegnern ausweichen. Je länger du durchhältst, desto mehr Punkte erreichst du. Ende.
 

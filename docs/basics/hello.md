@@ -33,10 +33,26 @@ Skript -> GDScript
 Code Vorlage (Template):
 
 ```gdscript
+extends Node2D
+
+
+# Declare member variables here. Examples:
+# var a = 2
+# var b = "text"
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+#func _process(delta):
+#	pass
 
 ```
 
-Dort unter `func _ready():` dann mit einem Tab eingerückt `print("Hello World")` eingeben:
+Dort unter `func _ready():` das `pass` entfernen und dann mit einem Tab eingerückt `print("Hello World")` eingeben:
 
 ```gdscript
 func _ready():

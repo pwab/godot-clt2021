@@ -9,6 +9,7 @@ Hier findest du ein <s>alphabetisch</s> einigermaßen sortiertes Glossar.
 - AA: Anti-Aliasing (Kantenglättung)
 - AR: Augmented Reality
 - FPS: Frames Per Second (Bilder pro Sekunde)
+- IO: Input/Output (Eingabe/Ausgabe)
 - LAN: Local Area Network (Lokales Netzwerk)
 - PBR: Physically Based Rendering
 - SFX: Soundeffects (Soundeffekte)
